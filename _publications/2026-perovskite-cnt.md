@@ -1,9 +1,11 @@
 ---
 title: "Interface-driven modulation of structure and electronic properties in CNT-encapsulated CsPbI3 and Cs4PbI5 1D perovskites"
 collection: publications
-permalink: /publication/perovskite-cnt
-date: 2026-01-01
-venue: "Materials Today Communications"
+category: manuscripts
+permalink: /publication/2026-perovskite-cnt
+excerpt: "DFT investigation of CNT-encapsulated halide perovskite nanowires revealing interfacial charge transfer, strain effects, and tunable electronic properties."
+date: 2026-03-11
+venue: "Nano Trends"
 paperurl: "https://www.sciencedirect.com/science/article/pii/S2666978126000218"
-citation: "Birwal, S.; Ray, N.; et al. (2026). Interface-driven modulation of structure and electronic properties in CNT-encapsulated CsPbI3 and Cs4PbI5 1D perovskites Materials Today Communications."
+citation: "Godara, M.; Shome, S.; Birwal, S. S.; Ray, N. Interface-driven modulation of structure and electronic properties in CNT-encapsulated CsPbI3 and Cs4PbI5 1D perovskites. Nano Trends 14 (2026) 100197."
 ---
