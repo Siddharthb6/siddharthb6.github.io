@@ -59,4 +59,6 @@ Python (NumPy, SciPy, Matplotlib, TensorFlow), Jupyter Notebooks, shell scriptin
 **Scientific Expertise**
 Electronic structure analysis, thermoelectric transport modelling, catalytic reaction energetics, spin–orbit coupling effects, and low-dimensional materials simulation
 
+[Download my CV](files/CV.pdf)
+
 
