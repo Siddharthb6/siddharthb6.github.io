@@ -23,8 +23,6 @@ Supervisor: Prof. E. D. Jemmis
 
 During a summer research internship, I investigated the electronic structure and stability of substituted borane clusters, [B₁₂H₁₂]²⁻ and [B₁₀H₁₀]²⁻, using density functional theory at the B3LYP/6-31G(d) level in Gaussian. Frontier molecular orbital analysis was employed to interpret bonding interactions and correlate quantum descriptors with classical bonding models in cluster chemistry.
 
----
-
 ### Thermoelectric Properties of Half-Heusler CoTiSb
 
 **Master’s Thesis, IIT Roorkee**
@@ -32,7 +30,6 @@ Supervisor: Prof. H. Kandpal
 
 My thesis focused on the structural, electronic, and thermoelectric properties of the half-Heusler compound CoTiSb. I performed plane-wave DFT calculations in VASP and evaluated temperature-dependent transport properties using semi-classical Boltzmann transport theory implemented in BoltzTraP2. Pressure-dependent simulations (−4 to +4 GPa) provided insight into band convergence, symmetry effects, and electron-phonon interactions influencing thermoelectric performance.
 
----
 
 ### DFT Investigation of Fe-Pincer Catalysts for Hydrogen Production
 
@@ -41,7 +38,6 @@ Supervisor: Prof. V. Avasare
 
 I conducted post-thesis computational research on iron-based pincer complexes as homogeneous catalysts for sustainable hydrogen production. Using Gaussian, I calculated reaction energetics, activation barriers, and electronic descriptors such as Mulliken charges, HOMO–LUMO gaps, and NBO populations to elucidate catalytic mechanisms and reactivity trends. Close collaboration with experimental researchers highlighted the importance of predictive modelling in catalyst design.
 
----
 
 ### Low-Dimensional and Hybrid Materials Modelling
 
